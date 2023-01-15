@@ -20,13 +20,13 @@ _Disclaimer: While in the current **intended** smart contracts interoperation th
 
 ## **How to calculate the price floor of the liquidity pool?**
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## **How to calculate the price floor of CORE?**
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Legend**
 

@@ -41,6 +41,8 @@ If your wallet has staked CORE/WETH LP tokens which generated rewards, a "**Clai
 
 ### ​ <a href="#undefined-1" id="undefined-1"></a>
 
-You can access a variety of Pair & Token Information by clicking on "**More Info**"![](https://1183527850-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MIUIwaij2Q2HRv8FOrB%2F-MLs7ZYVqLmq1gibMjCm%2F-MLsAE4Aq72jJNqZo6Oz%2Fimage.png?alt=media\&token=a74fff83-afca-4cd4-a941-3f3bef86aa5b)
+You can access a variety of Pair & Token Information by clicking on "**More Info**"
+
+<figure><img src="https://1183527850-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MIUIwaij2Q2HRv8FOrB%2F-MLs7ZYVqLmq1gibMjCm%2F-MLsAE4Aq72jJNqZo6Oz%2Fimage.png?alt=media&#x26;token=a74fff83-afca-4cd4-a941-3f3bef86aa5b" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://1183527850-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MIUIwaij2Q2HRv8FOrB%2F-MLs7ZYVqLmq1gibMjCm%2F-MLsABE54RBM5od9Jpgq%2Fimage.png?alt=media&#x26;token=74141b76-8b96-44ce-8c78-c2fa140ded6e" alt=""><figcaption></figcaption></figure>

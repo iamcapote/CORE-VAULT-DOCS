@@ -10,7 +10,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/186144c9db115f414aee742738c4b09b6b4a6139.png" alt=""><figcaption></figcaption></figure>
 
-coreDAO tokens can be staked in the vault in order to farm CORE. Each CORE traded incurs a **Fee-of-Transfer** **(FoT)** of 1% that is transferred to coreDAO staked in the vault. The staking contracts are built intelligently to save gas and every time coreDAO is unstaked you claim your rewards automatically.
+coreDAO tokens can be staked in the vault in order to farm [CORE](core/). Each CORE traded incurs a **Fee-of-Transfer** **(FoT)** of 1% that is transferred to coreDAO staked in the [CORE vault](core-vault.md). The staking contracts are built intelligently to save gas and every time coreDAO is unstaked you claim your rewards automatically.
 
 CORE Finance aims to become a self-sustaining project with an emphasis on decentralization and community thus coreDAO holders can participate in **on-chain** votes on platform decisions. They can vote on **CORE Improvement Proposals (CIP)** and direct the future of the platform. On the other hand, users that have active loans in coreDAO cannot participate in governance.
 

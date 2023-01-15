@@ -12,18 +12,19 @@ The main active components of the CORE Ecosystem are:
 
 * [CORE](core-vault-ecosystem/core/)
 * [coreDAO](core-vault-ecosystem/coredao.md)
-* [CORE Farming](core-vault-ecosystem/core-farming.md)
+* [CORE Farming](core-vault-ecosystem/core-vault.md)
 * [cLEND](core-vault-ecosystem/clend.md)
-* [CORE Router](core-vault-ecosystem/core-router.md)
+* [CORE Router](core-vault-ecosystem/core-router/)
+  * [CORE Flash Arbitrage](core-vault-ecosystem/core-router/core-flash-arbitrage.md)
 * [Fanny](core-vault-ecosystem/fanny.md)
 * [LGEs](core-vault-ecosystem/lges.md)
 
 The cVault Finance developers are also actively working on:
 
-* [CORE Options](developing/core-options.md)
-* [coreDEX](developing/coredex.md)
-* [Automated Strategy Vaults](developing/automated-strategy-vaults.md)
-* [CORE Flash Arbitrage](developing/core-flash-arbitrage.md)
+* [CORE Options](developing/coredex/core-options.md)
+* [coreDEX](developing/coredex/)
+* [Automated Strategy Vaults](developing/coredex/automated-strategy-vaults.md)
+* [CORE Governance](developing/coredex/core-governance.md)
 
 ## CORE Vault Ecosystem
 
@@ -46,12 +47,12 @@ The cVault Finance developers are also actively working on:
 
 ### CORE Vault Community
 
+* [CORE Charts Info](https://corecharts.info/)
 * [CORE Vault Info](https://corevault.info/)
-* [CORE Charts](https://corecharts.info/)
 
 
 
-
-
-
+{% hint style="danger" %}
+Nothing in this page should be taken as financial advice! Please perform your 'due diligence' and DYOR before interacting with any of CORE Vault's contracts and make sure that you are interacting with the correct contracts.
+{% endhint %}
 

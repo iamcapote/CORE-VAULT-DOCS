@@ -1,6 +1,6 @@
 # LGEs
 
-Liquidity Generation Events (LGEs) were how the original CORE team kickstarted the initial distribution of the CORE Token and the **locked liquidity** that powers the entire CORE Finance ecosystem.
+Liquidity Generation Events (LGEs) were how the original CORE team kickstarted the initial distribution of the [CORE Token](core/) and the **locked liquidity** that powers the entire CORE Finance ecosystem.
 
 LGEs are a fair way to distribute a token and provide liquidity without giving developer bonuses or shares.
 
