@@ -6,6 +6,8 @@ description: >-
 
 # CORE Vault Document Portal
 
+<figure><img src=".gitbook/assets/photo_2022-07-01_09-36-21 (1).png" alt="" width="160"><figcaption></figcaption></figure>
+
 CORE Vault Finance's products aim to reward users from a growing number of **high yield** generating strategies and finance products.
 
 The main active components of the CORE Ecosystem are:
